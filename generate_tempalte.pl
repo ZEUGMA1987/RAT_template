@@ -4,7 +4,7 @@
 #$pm = new Parallel::ForkManager(3); 
 
 
-$output_path= "/media/OPTOGENETICS/create_template";
+$output_path= "/media/rats/create_template";
 chdir "$output_path";
 
 
